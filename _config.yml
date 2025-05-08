@@ -23,9 +23,8 @@ navbar-links:
 # [수정필요] 아바타 로고 사용 시에는 이미지 파일을 지정 (이미지 파일 업로드 후, 위치 지정)
 avatar: "/assets/img/jeongho.JPG"
 # 원형 아바타 이미지 여부 `true` 또는 `false`
-round-avatar: False
-# 아바타 이미지 크기 조절 (픽셀 단위)
-avatar-width: 300
+round-avatar: false
+avatar-size: 300
 
 # title text 대신 이미지 사용하고 싶은 경우 설정
 # then specify the following parameter
@@ -165,9 +164,6 @@ date_format: "%B %-d, %Y"
 
 
 # --- You don't need to touch anything below here (but you can if you want) --- #
-
-# Custom CSS
-custom_css: ["/assets/css/custom.css"]
 
 # Output options (more information on Jekyll's site)
 timezone: "America/Vancouver"
