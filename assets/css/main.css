@@ -561,11 +561,19 @@ footer .footer-custom-content {
   position: relative;
 }
 .intro-header.big-img {
+<<<<<<< HEAD:assets/css/main.css
   background: no-repeat center 80%;
   -webkit-background-size: 70%;
   -moz-background-size: 70%;
   background-size: 70%;
   -o-background-size: 70%;
+=======
+  background: no-repeat center center;
+  -webkit-background-size: contain;
+  -moz-background-size: contain;
+  background-size: contain;
+  -o-background-size: contain;
+>>>>>>> Feat: 메인 이미지 사이즈 잘리는 문제 해결중:jeonghomin.github.io/assets/css/main.css
   background-color: #f8f8f8;
   margin-top: 3.1875rem; /* The small navbar is 50px tall + 1px border */
   margin-bottom: 2.1875rem;
@@ -575,11 +583,19 @@ footer .footer-custom-content {
   width: 100%;
   height: 100%;
   opacity: 0;
+<<<<<<< HEAD:assets/css/main.css
   background: no-repeat center 60%;
   -webkit-background-size: 70%;
   -moz-background-size: 70%;
   background-size: 70%;
   -o-background-size: 70%;
+=======
+  background: no-repeat center center;
+  -webkit-background-size: contain;
+  -moz-background-size: contain;
+  background-size: contain;
+  -o-background-size: contain;
+>>>>>>> Feat: 메인 이미지 사이즈 잘리는 문제 해결중:jeonghomin.github.io/assets/css/main.css
   background-color: #f8f8f8;
   -webkit-transition: opacity 1s linear;
   -moz-transition: opacity 1s linear;
