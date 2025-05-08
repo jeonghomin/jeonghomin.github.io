@@ -23,7 +23,7 @@ navbar-links:
 # [수정필요] 아바타 로고 사용 시에는 이미지 파일을 지정 (이미지 파일 업로드 후, 위치 지정)
 avatar: "/assets/img/seokho-square-2.jpg"
 # 원형 아바타 이미지 여부 `true` 또는 `false`
-round-avatar: true
+round-avatar: false
 
 # title text 대신 이미지 사용하고 싶은 경우 설정
 # then specify the following parameter
@@ -36,10 +36,10 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "shsonkorea@etri.re.kr"
-  facebook: seokho.son.korea
-  github: seokho-son
-  linkedin: seokho-son
+  email: "jeongho.min@unist.ac.kr"
+  facebook: "https://www.facebook.com/john.min.718"
+  github: "https://github.com/jeonghomin"
+  linkedin:"https://www.linkedin.com/in/%EC%A0%95%ED%98%B8-%EB%AF%BC-ba95441b4/"
 #  twitter: daattali
 #  rss: true
 #  reddit: yourname
