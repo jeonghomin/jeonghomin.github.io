@@ -3,8 +3,6 @@ layout: page
 title: AI Researcher
 subtitle: Lumir Inc.
 cover-img: /assets/img/unist.JPG
-cover-img-size: 80%
-cover-img-position: center 30%
 ---
 
 <br/>
