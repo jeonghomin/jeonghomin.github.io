@@ -27,6 +27,8 @@ title: Publication
 
 # Awards and Honors
 
-* 3rd Place (Team Leader) - Multimodal Semantic Segmentation Challenge 2024 at IEEE WHISPERS
+* 3rd PLACE (Team Leader) - among 204 participants, Multimodal Semantic Segmentation
+    Challenge 2024 at IEEE WHISPERS (Workshop on Hyperspectral Imaging and Signal Processing:
+    Evolution in Remote Sensing), 
 * Scholarship for academic excellence (Top 3, Top 10, Daejeon University)
 * 2019 학부생 논문 및 캡스톤 디자인 경진대회 (장려상), 한국 방송 미디어공학회
