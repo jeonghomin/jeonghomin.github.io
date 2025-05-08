@@ -99,8 +99,3 @@ title: Research Career
 
 <br/>
 
-# Awards and Honors
-
-* 3rd Place (Team Leader) - Multimodal Semantic Segmentation Challenge 2024 at IEEE WHISPERS
-* Scholarship for academic excellence (Top 3, Top 10, Daejeon University)
-* 2019 학부생 논문 및 캡스톤 디자인 경진대회 (장려상), 한국 방송 미디어공학회

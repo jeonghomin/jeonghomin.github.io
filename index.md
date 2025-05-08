@@ -2,14 +2,14 @@
 layout: page
 title: AI Researcher
 subtitle: Lumir Inc.
-cover-img: /assets/img/itu-seokho-m4.jpg
+cover-img: /assets/img/unist.JPG
 ---
 
 <br/>
 
 ## About me
 
-**Jeongho Min** is an **_AI Researcher_** at [Lumir Inc.](https://www.lumir.ai/) and currently serving in the military service. He specializes in computer vision and deep learning, with a particular focus on super-resolution, image reconstruction, and remote sensing applications.
+**Jeongho Min** is an **_AI Researcher_** at [Lumir Inc.](https://www.lumir.space/) and currently serving in the military service. He specializes in computer vision and deep learning, with a particular focus on super-resolution, image reconstruction, and remote sensing applications.
 
 He has a strong technical background in computer vision, deep learning, and inverse problems. His research interests include:
 - Object Detection and Segmentation
