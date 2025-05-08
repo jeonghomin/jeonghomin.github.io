@@ -561,11 +561,11 @@ footer .footer-custom-content {
   position: relative;
 }
 .intro-header.big-img {
-  background: no-repeat center 30%;
-  -webkit-background-size: 95%;
-  -moz-background-size: 95%;
-  background-size: 95%;
-  -o-background-size: 95%;
+  background: no-repeat center 40%;
+  -webkit-background-size: 85%;
+  -moz-background-size: 85%;
+  background-size: 85%;
+  -o-background-size: 85%;
   background-color: #f8f8f8;
   margin-top: 3.1875rem; /* The small navbar is 50px tall + 1px border */
   margin-bottom: 2.1875rem;
@@ -575,11 +575,11 @@ footer .footer-custom-content {
   width: 100%;
   height: 100%;
   opacity: 0;
-  background: no-repeat center 30%;
-  -webkit-background-size: 95%;
-  -moz-background-size: 95%;
-  background-size: 95%;
-  -o-background-size: 95%;
+  background: no-repeat center 40%;
+  -webkit-background-size: 85%;
+  -moz-background-size: 85%;
+  background-size: 85%;
+  -o-background-size: 85%;
   background-color: #f8f8f8;
   -webkit-transition: opacity 1s linear;
   -moz-transition: opacity 1s linear;
