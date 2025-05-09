@@ -567,9 +567,9 @@ footer .footer-custom-content {
   background-size: 70%;
   -o-background-size: 70%;
   background-color: #f8f8f8;
-  margin-top: 5.6875rem; /* Full navbar is small navbar + 20px padding on each side when expanded */
+  margin-top: 8rem;
   margin-bottom: 2.1875rem;
-  padding-top: 4rem; /* 원하는 만큼 조절 */
+  padding-top: 4rem;
 }
 .intro-header.big-img .big-img-transition {
   position: absolute;
@@ -643,7 +643,7 @@ footer .footer-custom-content {
     margin-top: 8.125rem;
   }
   .intro-header.big-img {
-    margin-top: 5.6875rem; /* Full navbar is small navbar + 20px padding on each side when expanded */
+    margin-top: 8rem;
   }
   .intro-header.big-img .page-heading,
   .intro-header.big-img .post-heading {
@@ -924,6 +924,6 @@ pre {
 
 .intro-header.big-img img {
   display: block;
-  margin: 0 auto 1.5rem auto; /* 아래쪽에 1.5rem 간격 */
+  margin: 0 auto 1.5rem auto;
   max-width: 100%;
 }
