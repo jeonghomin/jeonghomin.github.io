@@ -23,9 +23,11 @@ title: Publication
 
 # Patents
 
-- Jaejun Yoo, **Jeongho Min**, Yejun Lee, Dongyoung Kim, _"해상도 향상 방법 및 상기 방법을 수행하는 컴퓨팅 장치"_, KR-Application No. 10-2023-0161376
-
+- Jaejun Yoo, **Jeongho Min**, Yejun Lee, Dongyoung Kim,
+"Method for Enhancing Image Resolution and Computing Device Performing the Same",
+KR Patent No. 10-2770741, Registered on Feb. 17, 2025
+**Technology licensed by UNIST through a formal agreement and transferred to DeepXX Co., Ltd.**
 # Awards
-* Finalist / 3rd & 4th Place (Test Phase, out of 104 participants, with Hyunjin Kim (UNIST)) — Multi-modal Aerial View Image Challenge (PBVS @ CVPR 2025), classification track, SAR/EO multi-sensor data, June 2025
-* 3rd Place (Team Leader, out of 204 participants) — MMSeg-YREB Multimodal Semantic Segmentation Challenge, WHISPERS IEEE WHISPERS (Workshop on Hyperspectral Imaging and Signal Processing) 2024.  
+* Finalist / **3rd & 4th Place** (Test Phase, out of 104 participants, with Hyunjin Kim (UNIST)) — Multi-modal Aerial View Image Challenge (PBVS @ CVPR 2025), classification track, SAR/EO multi-sensor data, June 2025
+* **3rd Place** (Team Leader, out of 204 participants) — MMSeg-YREB Multimodal Semantic Segmentation Challenge, WHISPERS IEEE WHISPERS (Workshop on Hyperspectral Imaging and Signal Processing) 2024.  
   Team: Jeongho Min (Team Leader), Sungbin Son, Hyunjin Kim (UNIST), Seunghyeok Back (GIST)
