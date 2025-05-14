@@ -27,7 +27,7 @@ title: Research Career
 ### Ulsan National Institute of Science and Technology (UNIST)
 #### M.S. in Artificial Intelligence, 2021.09 to 2023.08
 * Thesis: "Improving Reference-based Super Resolution in Remote Sensing via Domain Matching"
-* Advisor: Jaejun Yoo
+* Advisor: [Jaejun Yoo](https://sites.google.com/view/jaejunyoo/professor?authuser=0)
 
 ### Kyungpook National University
 #### B.S. in Computer Science and Engineering, 2017.03 to 2021.02 (Transferred)
