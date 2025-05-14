@@ -20,6 +20,8 @@ title: Research Career
   * Role: Research on Blind Super Resolution and degradation estimation in SAR & EO images
   * Developed methods for generating synthetic low-resolution data and estimating degradation in real images
   * Implemented end-to-end pipeline for learning degradation and generation
+
+  
 <br/>
 
 # Education
