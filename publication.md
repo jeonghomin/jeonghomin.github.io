@@ -17,7 +17,7 @@ title: Publication
 ### Conference Papers
 
 #### International 
-- **Jeongho Min**, Dongyoung Kim, Jaehyup Lee "From Street to Orbit: Language-Guided Semantic Retrieval of Satellite Imagery
+- **Jeongho Min**, Dongyoung Kim, Jaehyup Lee _"From Street to Orbit: Language-Guided Semantic Retrieval of Satellite Imagery"_
 , IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2026 (In prepareation) 
 
 - **Jeongho Min**, Sungbin Son, Hyeonjin Kim, Seunghyeok Back, Jaejun Yoo, Youngkyun Kong, _"GatedMCBAM: Cross-Modal Block Attention Module with Gating Mechanism for Remote Sensing Segmentation"_, IEEE WHISPERS (Workshop on Hyperspectral Imaging and Signal Processing: Evolution in Remote Sensing), Oral Presentation
