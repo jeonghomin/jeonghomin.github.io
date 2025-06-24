@@ -37,8 +37,8 @@ KR Patent No. 10-2770741, Registered on Feb 17, 2025.
 # Awards
 * Finalist / **3rd & 4th Place** (Test Phase, out of 104 participants, with Hyunjin Kim (UNIST)) — Multi-modal Aerial View Image Challenge (PBVS @ CVPR 2025), classification track, SAR/EO multi-sensor data, June 2025.  
    Team: **Jeongho Min†**,  Hyeonjin Kim† (UNIST), Jaehyup Lee (KNU), Jaejun Yoo (UNIST)
-![PBVS 2025 Award Certificate](assets/img/PBVS_2025_Award_Certificates_MAVIC-C_Jeongho_Min.png)
+![PBVS 2025 Award Certificate](assets/img/PBVS_2025_Award_Certificates_MAVIC-C_Jeongho_Min-1.png)
 * Finalist / **3rd Place** (Test Phase, out of 204 participants) — MMSeg-YREB Multimodal Semantic Segmentation Challenge, WHISPERS IEEE WHISPERS (Workshop on Hyperspectral Imaging and Signal Processing) 2024.  
   Team: **Jeongho Min (Team Leader)**, Sungbin Son, Hyunjin Kim (UNIST), Seunghyeok Back (GIST)
-![MMSeg-YREB Award Certificate](assets/img/MMSeg-YREB_Award_Certificate_Jeongho_Min.png)
+![MMSeg-YREB Award Certificate](assets/img/whispers2024_challenge_12162024_094032-1.png)
   
