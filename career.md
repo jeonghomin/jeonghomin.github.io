@@ -24,6 +24,14 @@ title: Research Career
   
 <br/>
 
+# Academic Service
+
+### Reviewer
+* **IEEE Geoscience and Remote Sensing Letters** (2024 -- present)
+* **IEEE Transactions on Circuits and Systems for Video Technology** (2025 -- present)
+
+<br/>
+
 # Education
 
 ### Ulsan National Institute of Science and Technology (UNIST)
