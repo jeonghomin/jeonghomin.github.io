@@ -22,13 +22,6 @@ title: Research Career
   * Implemented end-to-end pipeline for learning degradation and generation
 
   
-<br/>
-
-# Academic Service
-
-### Reviewer
-* **IEEE Geoscience and Remote Sensing Letters** (2024 -- present)
-* **IEEE Transactions on Circuits and Systems for Video Technology** (2025 -- present)
 
 <br/>
 
@@ -43,6 +36,14 @@ title: Research Career
 #### B.S. in Computer Science and Engineering, 2017.03 to 2021.02 (Transferred)
 * Advisor: Jaeil Kim
 
+
+<br/>
+
+# Academic Service
+
+### Reviewer
+* **IEEE Geoscience and Remote Sensing Letters** (2024 -- present)
+* **IEEE Transactions on Circuits and Systems for Video Technology** (2025 -- present)
 
 <br/>
 
