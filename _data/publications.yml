@@ -25,6 +25,6 @@ main:
     authors: "<strong>Jeongho Min*</strong>, Yejun Lee, Dongyoung Kim, Jaejun Yoo (*First author)"
     conference_short: GRSL
     conference: "IEEE Geoscience and Remote Sensing Letters, vol. 21, 2023."
-    image: ./assets/img/grsl2023_teaser.png
+    image: ./assets/img/GRSL2023_teaser.png
     notes: "Impact Factor: 5.343, JCR: 10.9%"
 
