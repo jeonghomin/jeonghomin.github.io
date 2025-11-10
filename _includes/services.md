@@ -9,7 +9,13 @@
         <img src="./assets/img/PBVS2025_teaser.png" alt="PBVS 2025 Award" style="width: 100%; height: auto; border-radius: 4px;">
       </div>
       <div style="flex: 1;">
-        <strong>Finalist / 3rd Place</strong> (Test Phase, out of 104 participants) — Multi-modal Aerial View Image Challenge (PBVS @ CVPR 2025), classification track, SAR/EO multi-sensor data, June 2025. Team: Jeongho Min*, Hyeonjin Kim (UNIST), Jaehyup Lee (KNU), Jaejun Yoo (UNIST)
+        <strong>Finalist / 3rd Place</strong> (Test Phase, out of 104 participants) — Multi-modal Aerial View Image Challenge (PBVS @ CVPR 2025), classification track, SAR/EO multi-sensor data, June 2025. 
+        <br><br>
+        <strong>Team:</strong><br>
+        <strong>Jeongho Min*</strong>,<br>
+        <a href="https://aigs.unist.ac.kr/web/index.php">Hyeonjin Kim (UNIST)</a>,<br>
+        Jaehyup Lee (KNU),<br>
+        <a href="https://sites.google.com/view/jaejunyoo/professor">Prof. Jaejun Yoo (UNIST)</a>
       </div>
     </div>
   </li>
@@ -19,7 +25,13 @@
         <img src="./assets/img/WHISPERS2024_teaser.png" alt="WHISPERS 2024 Award" style="width: 100%; height: auto; border-radius: 4px;">
       </div>
       <div style="flex: 1;">
-        <strong>Finalist / 3rd Place</strong> (Test Phase, out of 204 participants) — MMSeg-YREB Multimodal Semantic Segmentation Challenge, IEEE WHISPERS 2024. Team: Jeongho Min* (Team Leader), Sungbin Son, Hyunjin Kim (UNIST), Seunghyeok Back (GIST)
+        <strong>Finalist / 3rd Place</strong> (Test Phase, out of 204 participants) — MMSeg-YREB Multimodal Semantic Segmentation Challenge, IEEE WHISPERS 2024. 
+        <br><br>
+        <strong>Team:</strong><br>
+        <strong>Jeongho Min*</strong> (Team Leader),<br>
+        Sungbin Son,<br>
+        <a href="https://aigs.unist.ac.kr/web/index.php">Hyunjin Kim (UNIST)</a>,<br>
+        Seunghyeok Back (GIST)
       </div>
     </div>
   </li>
