@@ -4,19 +4,25 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am an AI Researcher at Lumir Inc., working on computer vision and remote sensing applications. I received my M.S. in Artificial Intelligence from Ulsan National Institute of Science and Technology (UNIST) in 2023, where I worked on improving reference-based super-resolution in remote sensing via domain matching under the supervision of Prof. Jaejun Yoo.
+
+My research focuses on inverse problems in computer vision, particularly super-resolution (Blind SR, Reference-based SR, SISR), denoising, and generative AI. I also have extensive experience in building LLM-based systems, including RAG pipelines, tool-calling frameworks, and AI agents for geospatial applications.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Computer Vision:** Super-resolution (RefSR, Blind SR, SISR), Denoising, Segmentation, Object Detection, Generative AI (GAN, Diffusion)
+- **Remote Sensing:** Multi-modal fusion (EO & SAR), Land cover classification, Cross-view retrieval, Domain adaptation
+- **LLM & Agentic Systems:** RAG pipelines, Tool calling, Function orchestration, LangChain/LangGraph/Langflow, Semantic Kernel, CrewAI
+- **Deep Learning:** Inverse problems, Domain matching, Multi-modal learning
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[June 2025]** 🏆 Finalist / 3rd Place (Test Phase, out of 104 participants) — Multi-modal Aerial View Image Challenge (PBVS @ CVPR 2025), classification track
+- **[Feb. 2025]** 📄 Our paper "From Street to Orbit: Training-Free Cross-View Retrieval via Location Semantics and Language Guidance" is accepted to WACV 2026
+- **[Feb. 2025]** 🏆 Finalist / 3rd Place (Test Phase, out of 204 participants) — MMSeg-YREB Multimodal Semantic Segmentation Challenge, IEEE WHISPERS 2024
+- **[2024]** 🏢 Joined Lumir Inc. as AI Researcher (Military Service), working on GIS-oriented LLM Chatbot and land cover segmentation
+- **[2023]** 📄 Our paper "Bridging the Domain Gap: A Simple Domain Matching Method for Reference-Based Image Super-Resolution in Remote Sensing" is published in IEEE GRSL (Impact Factor: 5.343)
+- **[2023]** 🎓 Received M.S. in Artificial Intelligence from UNIST
 
 {% include_relative _includes/publications.md %}
 
