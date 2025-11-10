@@ -1,31 +1,31 @@
 main:
 
   - title: "From Street to Orbit: Training-Free Cross-View Retrieval via Location Semantics and Language Guidance"
-    authors: <strong>Jeongho Min*</strong>, Dongyoung Kim, Jaehyup Lee (*First author)
+    authors: "<strong>Jeongho Min*</strong>, Dongyoung Kim, Jaehyup Lee (*First author)"
     conference_short: WACV
-    conference: IEEE/CVF Winter Conference on Applications of Computer Vision <strong>(WACV)</strong>, 2026.
+    conference: "IEEE/CVF Winter Conference on Computer Vision <strong>(WACV)</strong>, 2026."
     notes: Accepted
 
   - title: "Gated-MCBAM: Cross-Modal Block Attention Module with Gating Mechanism for Remote Sensing Segmentation"
-    authors: <strong>Jeongho Min*</strong>, Sungbin Son, Hyeonjin Kim, Seunghyeok Back, Jaejun Yoo, Youngkyun Kong (*First author)
+    authors: "<strong>Jeongho Min*</strong>, Sungbin Son, Hyeonjin Kim, Seunghyeok Back, Jaejun Yoo, Youngkyun Kong (*First author)"
     conference_short: WHISPERS
-    conference: IEEE WHISPERS (Workshop on Hyperspectral Imaging and Signal Processing: Evolution in Remote Sensing), 2024.
+    conference: "IEEE WHISPERS (Workshop on Hyperspectral Imaging and Signal Processing: Evolution in Remote Sensing), 2024."
     notes: Oral Presentation
 
   - title: "Bridging the Domain Gap: A Simple Domain Matching Method for Reference-Based Image Super-Resolution in Remote Sensing"
-    authors: <strong>Jeongho Min*</strong>, Yejun Lee, Dongyoung Kim, Jaejun Yoo (*First author)
+    authors: "<strong>Jeongho Min*</strong>, Yejun Lee, Dongyoung Kim, Jaejun Yoo (*First author)"
     conference_short: GRSL
-    conference: IEEE Geoscience and Remote Sensing Letters, vol. 21, 2023.
-    notes: Impact Factor: 5.343, JCR: 10.9%
+    conference: "IEEE Geoscience and Remote Sensing Letters, vol. 21, 2023."
+    notes: "Impact Factor: 5.343, JCR: 10.9%"
 
   - title: "Multimodal Semantic Segmentation in Yangtze River Economic Belt: Outcome of the 2024 IEEE WHISPERS MMSeg-YREB Challenge"
-    authors: Jepan Li, He Huang, Yu Xia, Xian Xu, Yingxin Wu, Qi Guo, Yinhe Liu, Yanfei Zhong, <strong>Jeongho Min</strong>, Sungbin Son, Hyeonjin Kim, Jaejun Yoo, Gemine Vivone, Chenyu Li, Wei He, Renwei Dian, Hao Liu, Haipeng Wang, Kan Wei, A. K. Qin, Naoto Yokoya, Shutao Li, Jocelyn Chanussot, Danfeng Hong
+    authors: "Jepan Li, He Huang, Yu Xia, Xian Xu, Yingxin Wu, Qi Guo, Yinhe Liu, Yanfei Zhong, <strong>Jeongho Min</strong>, Sungbin Son, Hyeonjin Kim, Jaejun Yoo, Gemine Vivone, Chenyu Li, Wei He, Renwei Dian, Hao Liu, Haipeng Wang, Kan Wei, A. K. Qin, Naoto Yokoya, Shutao Li, Jocelyn Chanussot, Danfeng Hong"
     conference_short: JSTARS
-    conference: IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2025.
-    notes: Impact Factor: 5.3
+    conference: "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2025."
+    notes: "Impact Factor: 5.3"
 
   - title: "Enhancing Electro-Optical Imagery via Reference-based Super-Resolution Techniques Using Synthetic Aperture Radar Images"
-    authors: <strong>Jeongho Min*</strong>, Yejun Lee, Jaejun Yoo (*First author)
+    authors: "<strong>Jeongho Min*</strong>, Yejun Lee, Jaejun Yoo (*First author)"
     conference_short: KIEES
-    conference: 대한전자공학회 학술대회 (KIEES), 2022.
+    conference: "대한전자공학회 학술대회 (KIEES), 2022."
     notes: Domestic Conference
