@@ -13,9 +13,9 @@
         <br><br>
         <strong>Team:</strong><br>
         <strong>Jeongho Min*</strong>,<br>
-        Hyeonjin Kim (<a href="https://aigs.unist.ac.kr/web/index.php">UNIST</a>),<br>
+        Hyeonjin Kim (UNIST),<br>
         Jaehyup Lee (KNU),<br>
-        <a href="https://sites.google.com/view/jaejunyoo/professor">Prof. Jaejun Yoo</a> (<a href="https://aigs.unist.ac.kr/web/index.php">UNIST</a>)
+        Prof. Jaejun Yoo (UNIST)
       </div>
     </div>
   </li>
@@ -30,7 +30,7 @@
         <strong>Team:</strong><br>
         <strong>Jeongho Min*</strong> (Team Leader),<br>
         Sungbin Son,<br>
-        Hyunjin Kim (<a href="https://aigs.unist.ac.kr/web/index.php">UNIST</a>),<br>
+        Hyunjin Kim (UNIST),<br>
         Seunghyeok Back (GIST)
       </div>
     </div>
