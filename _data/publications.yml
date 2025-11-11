@@ -6,7 +6,6 @@ main:
     conference: "IEEE/CVF Winter Conference on Computer Vision <strong>(WACV)</strong>, 2026."
     image: ./assets/img/WACV2026_teaser.png
     page: https://jeonghomin.github.io/street2orbit.github.io/
-    notes: Accepted
 
   - title: "Gated-MCBAM: Cross-Modal Block Attention Module with Gating Mechanism for Remote Sensing Segmentation"
     authors: "<strong>Jeongho Min*</strong>, Sungbin Son, Hyeonjin Kim, Seunghyeok Back, Jaejun Yoo, Youngkyun Kong (*First author)"
@@ -27,5 +26,5 @@ main:
     conference_short: GRSL
     conference: "IEEE Geoscience and Remote Sensing Letters, vol. 21, 2023."
     image: ./assets/img/GRSL2023_teaser.png
-    notes: "Impact Factor: 5.343, JCR: 10.9%"
+    notes: "Impact Factor: 4.8, JCR: 9.6%"
 
