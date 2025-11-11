@@ -5,8 +5,9 @@
 <ul style="margin:0 0 5px;">
   <li>
     <div style="display: flex; align-items: start; gap: 15px; margin-bottom: 10px;">
-      <div style="flex-shrink: 0; width: 150px;">
+      <div style="flex-shrink: 0; display: flex; flex-direction: column; gap: 10px; width: 150px;">
         <img src="./assets/img/PBVS2025_teaser.png" alt="PBVS 2025 Award" style="width: 100%; height: auto; border-radius: 4px;">
+        <img src="./assets/img/PBVS_2025_Award_Certificates_MAVIC-C_Jeongho_Min-1.png" alt="PBVS 2025 Certificate" style="width: 100%; height: auto; border-radius: 4px;">
       </div>
       <div style="flex: 1;">
         <strong>Finalist / 3rd Place</strong> (Test Phase, out of 104 participants) — Multi-modal Aerial View Image Challenge (PBVS @ CVPR 2025), classification track, SAR/EO multi-sensor data, June 2025. 
@@ -21,8 +22,9 @@
   </li>
   <li>
     <div style="display: flex; align-items: start; gap: 15px; margin-bottom: 10px;">
-      <div style="flex-shrink: 0; width: 150px;">
+      <div style="flex-shrink: 0; display: flex; flex-direction: column; gap: 10px; width: 150px;">
         <img src="./assets/img/WHISPERS2024_teaser.png" alt="WHISPERS 2024 Award" style="width: 100%; height: auto; border-radius: 4px;">
+        <img src="./assets/img/whispers2024_challenge_12162024_094032-1.png" alt="WHISPERS 2024 Certificate" style="width: 100%; height: auto; border-radius: 4px;">
       </div>
       <div style="flex: 1;">
         <strong>Finalist / 3rd Place</strong> (Test Phase, out of 204 participants) — MMSeg-YREB Multimodal Semantic Segmentation Challenge, IEEE WHISPERS 2024. 
