@@ -5,6 +5,7 @@ main:
     conference_short: WACV
     conference: "IEEE/CVF Winter Conference on Computer Vision <strong>(WACV)</strong>, 2026."
     image: ./assets/img/WACV2026_teaser.png
+    page: https://jeonghomin.github.io/street2orbit.github.io/
     notes: Accepted
 
   - title: "Gated-MCBAM: Cross-Modal Block Attention Module with Gating Mechanism for Remote Sensing Segmentation"
