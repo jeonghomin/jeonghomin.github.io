@@ -1,6 +1,6 @@
 main:
 
-  - title: "From Street to Orbit: Training-Free Cross-View Retrieval via Location Semantics and Language Guidance"
+  - title: "From Street to Orbit: Training-Free Cross-View Retrieval via Location Semantics and LLM Guidance"
     authors: "<strong>Jeongho Min*</strong>, Dongyoung Kim, Jaehyup Lee (*First author)"
     conference_short: WACV
     conference: "IEEE/CVF Winter Conference on Computer Vision <strong>(WACV)</strong>, 2026."
