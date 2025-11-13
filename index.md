@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am an AI Researcher at Lumir Inc., working on computer vision and remote sensing applications. I received my M.S. in Artificial Intelligence from Ulsan National Institute of Science and Technology (<a href="https://aigs.unist.ac.kr/web/index.php">UNIST</a>) in 2023, where I worked on improving reference-based super-resolution in remote sensing via domain matching under the supervision of <a href="https://sites.google.com/view/jaejunyoo/professor">Prof. Jaejun Yoo</a>.
+I am an AI Researcher at Lumir Inc. (Military Service), working on computer vision and remote sensing applications. I received my M.S. in Artificial Intelligence from Ulsan National Institute of Science and Technology (<a href="https://aigs.unist.ac.kr/web/index.php">UNIST</a>) in 2023, where I worked on improving reference-based super-resolution in remote sensing via domain matching under the supervision of <a href="https://sites.google.com/view/jaejunyoo/professor">Prof. Jaejun Yoo</a>.
 
 My research focuses on inverse problems in computer vision, particularly super-resolution (Blind SR, Reference-based SR, SISR), denoising, and generative AI. I also have extensive experience in building LLM-based systems, including RAG pipelines, tool-calling frameworks, and AI agents for geospatial applications.
 
