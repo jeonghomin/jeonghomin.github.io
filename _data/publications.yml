@@ -1,6 +1,6 @@
 main:
 
-  - title: "From Street to Orbit: Training-Free Cross-View Retrieval via Location Semantics and LLM Guidance"
+  - title: "From Street to Orbit: Training-Free Cross-View Retrieval via Location Semantics and Language Guidance"
     authors: "<strong>Jeongho Min*</strong>, Dongyoung Kim, Jaehyup Lee (*First author)"
     conference_short: WACV
     conference: "IEEE/CVF Winter Conference on Computer Vision <strong>(WACV)</strong>, 2026."
@@ -10,7 +10,7 @@ main:
   - title: "Gated-MCBAM: Cross-Modal Block Attention Module with Gating Mechanism for Remote Sensing Segmentation"
     authors: "<strong>Jeongho Min*</strong>, Sungbin Son, Hyeonjin Kim, Seunghyeok Back, Jaejun Yoo, Youngkyun Kong (*First author)"
     conference_short: WHISPERS
-    conference: "IEEE WHISPERS (Workshop on Hyperspectral Imaging and Signal Processing: Evolution in Remote Sensing), 2024."
+    conference: "IEEE WHISPERS (Workshop on Hyperspectral Imaging and Signal Processing: Evolution in Remote Sensing), 2025."
     image: ./assets/img/overview_v4.png
     notes: Oral Presentation
 
@@ -26,5 +26,5 @@ main:
     conference_short: GRSL
     conference: "IEEE Geoscience and Remote Sensing Letters, vol. 21, 2023."
     image: ./assets/img/GRSL2023_teaser.png
-    notes: "Impact Factor: 4.8, JCR: 9.6%"
+    notes: "Impact Factor: 5.343, JCR: 10.9%"
 
