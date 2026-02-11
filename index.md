@@ -17,9 +17,9 @@ My research focuses on inverse problems in computer vision, particularly super-r
 
 ## News
 - **[Nov. 2025]** Our paper "From Street to Orbit: Training-Free Cross-View Retrieval via Location Semantics and Language Guidance" is accepted to WACV 2026
-- **[2025]** Our paper "Gated-MCBAM: Cross-Modal Block Attention Module with Gating Mechanism for Remote Sensing Segmentation" is accepted to IEEE WHISPERS 2025 (Oral)
-- **[2025]** Our paper on MMSeg-YREB Challenge is published in IEEE JSTARS (Impact Factor: 5.3)
+- **[June 2025]** Our paper on MMSeg-YREB Challenge is published in IEEE JSTARS (Impact Factor: 5.3)
 - **[June 2025]** Finalist / 3rd Place (Test Phase, out of 104 participants) — Multi-modal Aerial View Image Challenge (PBVS @ CVPR 2025), classification track
+- **[Feb. 2025]** Our paper "Gated-MCBAM: Cross-Modal Block Attention Module with Gating Mechanism for Remote Sensing Segmentation" is accepted to IEEE WHISPERS 2025 (Oral)
 - **[Dec. 2024]** Finalist / 3rd Place (Test Phase, out of 204 participants) — MMSeg-YREB Multimodal Semantic Segmentation Challenge, IEEE WHISPERS 2024
 - **[Dec. 2023]** Our paper "Bridging the Domain Gap: A Simple Domain Matching Method for Reference-Based Image Super-Resolution in Remote Sensing" is published in IEEE GRSL (Impact Factor: 5.343, JCR: 10.9%)
 
