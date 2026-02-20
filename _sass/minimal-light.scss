@@ -595,3 +595,23 @@ footer {
   display:none;
   font-family: monospace;
 }
+
+.visitor-counter {
+  text-align: center;
+  padding: 12px 0;
+  margin-top: 16px;
+  font-size: 0.85rem;
+  color: #666;
+  border-top: 1px solid #e1e4e8;
+
+  i {
+    margin-right: 3px;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  .visitor-counter {
+    color: #aaa;
+    border-top-color: #444;
+  }
+}
